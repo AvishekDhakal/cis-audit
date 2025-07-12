@@ -1,0 +1,4 @@
+#cis-audit-lib>=0.1.0    # your scanning library
+jinja2
+pyyaml
+
